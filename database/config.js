@@ -11,4 +11,6 @@ const dbConnection = async () => {
   }
 }
 
+// Me dijo Jero que esta pagina se puede optimizar mejor el error
+
 export default dbConnection
